@@ -1,0 +1,48 @@
+*
+{
+    font-family: Robotto;
+}
+/* l'entête */
+.logo
+{
+    color: rgba(165, 42, 42, 0.238);
+    box-shadow: 1px 1px 1px 1px;
+    text-shadow: 1px 2px 3px;
+}
+span
+{
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.haut
+{
+    border: 3px red solid;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px
+}
+nav
+{
+    background-color: ;
+    margin-left:4em ;
+}
+ul
+{
+    display: flex;
+    list-style: none;
+    flex-direction: ;
+    
+}
+a
+{
+    padding: 3em;
+    text-decoration: none;
+    font-size: small;
+}
+.a1
+{
+    text-decoration: underline;
+    color: brown;
+    font-size: large;
+}
+/* section */
